@@ -1,2 +1,2 @@
 # Data-Science
-Data Science learning. Here i will upload all my learning day wise
+Data Science learning. Here I will upload all my learning day wise
